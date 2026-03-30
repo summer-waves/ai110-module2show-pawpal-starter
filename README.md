@@ -5,7 +5,6 @@ PawPal+ is a smart pet care scheduling app built with Python and Streamlit. It h
 ---
 
 ## 📸 Demo
-
 ![PawPal+ Demo](Pets_Demo_Streamlit.png)
 
 ---
